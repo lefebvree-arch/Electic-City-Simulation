@@ -11,6 +11,7 @@
 - [Construire son réseau](#construire-son-réseau)
 - [Recherche et progression](#recherche-et-progression)
 - [Économie et énergie](#économie-et-énergie)
+- [Contrats et événements](#contrats-et-événements)
 - [Graphiques](#graphiques)
 - [Sauvegardes](#sauvegardes)
 - [Dépannage](#dépannage)
@@ -61,6 +62,7 @@ Le coût est retiré du budget au moment de la construction. Tu ne peux pas cons
 | Marcher vers la droite | **D** |
 | Afficher/masquer les graphiques | **G** |
 | Ouvrir/fermer l'arbre de recherche | **R** |
+| Ouvrir/fermer les objectifs | **M** |
 | Mettre en pause/reprendre | **Espace** ou bouton **Pause** |
 | Modifier la vitesse | Boutons **x1**, **x2**, **x4** |
 | Revenir au menu principal | **Échap** ou bouton **Menu** |
@@ -102,6 +104,14 @@ Les sources alimentent les clients. Quand la production dépasse la demande, l'�
 Les ventes rapportent de l'argent. Développe les installations de production avant d'ajouter trop de clients, et construis du stockage pour mieux gérer les variations de production, en particulier la nuit.
 
 Le vent varie au cours de la partie. Le panneau supérieur affiche l'heure, le budget, la production, le stock de batterie et les coupures.
+
+## Contrats et événements
+
+La ville propose cinq objectifs de progression : développer la production, agrandir le stockage, connecter des clients, vendre de l'énergie et étudier de nouvelles technologies. Appuie sur **M** ou clique sur **Objectifs** pour afficher leur progression.
+
+Les récompenses sont versées automatiquement dès que tu remplis un objectif. Chaque contrat apporte de l'argent et des points de recherche.
+
+Des événements temporaires apparaissent pendant la partie. Une période ensoleillée augmente la production solaire, un grand vent aide les éoliennes, la marée favorise l'hydraulique et l'heure de pointe augmente la demande des clients. La ville peut aussi offrir une subvention. L'événement actif est affiché en haut de l'écran.
 
 ## Graphiques
 
